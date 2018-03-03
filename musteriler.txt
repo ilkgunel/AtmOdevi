@@ -1,3 +1,4 @@
 ilkay günel antalya 7000.0
 enes inci samsun 2000.0
 turgay günel ankara 3000.0
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
